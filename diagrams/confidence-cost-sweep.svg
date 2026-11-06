@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="570" viewBox="0 0 960 570">
+<rect width="960" height="570" rx="24" fill="#f5fafb"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="43" y="67" font-size="43" fill="#172e3c" text-anchor="start" font-weight="700">Same detections, different choices</text>
+<text x="44" y="112" font-size="26" fill="#405a68" text-anchor="start" font-weight="400">Costs on the tuning runs · illustrative data</text>
+<path d="M102 414 L870 414" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="421" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">0</text>
+<path d="M102 364 L870 364" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="371" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">5</text>
+<path d="M102 314 L870 314" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="321" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">10</text>
+<path d="M102 264 L870 264" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="271" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">15</text>
+<path d="M102 214 L870 214" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="221" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">20</text>
+<path d="M102 164 L870 164" fill="none" stroke="#d7e6eb" stroke-width="2"/>
+<text x="86" y="171" font-size="23" fill="#405a68" text-anchor="end" font-weight="400">25</text>
+<path d="M114 214 L236 254" fill="none" stroke="#096681" stroke-width="3"/>
+<path d="M236 254 L358 244" fill="none" stroke="#096681" stroke-width="3"/>
+<path d="M358 244 L480 284" fill="none" stroke="#096681" stroke-width="3"/>
+<path d="M480 284 L602 314" fill="none" stroke="#096681" stroke-width="3"/>
+<path d="M602 314 L724 354" fill="none" stroke="#096681" stroke-width="3"/>
+<path d="M724 354 L846 344" fill="none" stroke="#096681" stroke-width="3"/>
+<circle cx="114" cy="214" r="5" fill="#096681"/>
+<circle cx="236" cy="254" r="5" fill="#096681"/>
+<circle cx="358" cy="244" r="5" fill="#096681"/>
+<circle cx="480" cy="284" r="5" fill="#096681"/>
+<circle cx="602" cy="314" r="5" fill="#096681"/>
+<circle cx="724" cy="354" r="10" fill="#096681"/>
+<circle cx="846" cy="344" r="5" fill="#096681"/>
+<path d="M110 526 L145 526" fill="none" stroke="#096681" stroke-width="4"/>
+<text x="158" y="535" font-size="27" fill="#096681" text-anchor="start" font-weight="400">Miss cost ×4</text>
+<path d="M114 364 L236 374" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<path d="M236 374 L358 324" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<path d="M358 324 L480 334" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<path d="M480 334 L602 294" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<path d="M602 294 L724 304" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<path d="M724 304 L846 254" fill="none" stroke="#9b3d1d" stroke-width="3"/>
+<circle cx="114" cy="364" r="5" fill="#9b3d1d"/>
+<circle cx="236" cy="374" r="10" fill="#9b3d1d"/>
+<circle cx="358" cy="324" r="5" fill="#9b3d1d"/>
+<circle cx="480" cy="334" r="5" fill="#9b3d1d"/>
+<circle cx="602" cy="294" r="5" fill="#9b3d1d"/>
+<circle cx="724" cy="304" r="5" fill="#9b3d1d"/>
+<circle cx="846" cy="254" r="5" fill="#9b3d1d"/>
+<path d="M452 526 L487 526" fill="none" stroke="#9b3d1d" stroke-width="4"/>
+<text x="500" y="535" font-size="27" fill="#9b3d1d" text-anchor="start" font-weight="400">False alarm cost ×5</text>
+<text x="114" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">OFF</text>
+<text x="236" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.94</text>
+<text x="358" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.85</text>
+<text x="480" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.82</text>
+<text x="602" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.70</text>
+<text x="724" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.62</text>
+<text x="846" y="460" font-size="25" fill="#172e3c" text-anchor="middle" font-weight="400">0.35</text>
+<text x="490" y="495" font-size="23" fill="#405a68" text-anchor="middle" font-weight="400">Candidate cutoffs · equally spaced categories</text>
+</g></svg>

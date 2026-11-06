@@ -1,0 +1,8 @@
+{
+  "tune": [
+    {"frame":"t1","run":"A","targets":["clip"],"detections":[{"score_milli":1000,"match":null},{"score_milli":1000,"match":"clip"}]}
+  ],
+  "holdout": [
+    {"frame":"h1","run":"B","targets":["clip"],"detections":[{"score_milli":1000,"match":"clip"}]}
+  ]
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="570" viewBox="0 0 960 570">
+<rect width="960" height="570" rx="24" fill="#f5fafb"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="43" y="67" font-size="43" fill="#172e3c" text-anchor="start" font-weight="700">Lock 0.620 before holdout</text>
+<text x="44" y="112" font-size="26" fill="#405a68" text-anchor="start" font-weight="400">The same threshold keeps different detections on fresh runs.</text>
+<text x="47" y="229" font-size="31" fill="#172e3c" text-anchor="start" font-weight="700">Tune</text>
+<text x="48" y="266" font-size="23" fill="#405a68" text-anchor="start" font-weight="400">6 cost units</text>
+<text x="255" y="206" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">Correct</text>
+<rect x="255" y="222" width="132" height="24" rx="6" fill="#096681"/>
+<text x="398" y="244" font-size="26" fill="#096681" text-anchor="start" font-weight="700">4</text>
+<text x="478" y="206" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">False alarms</text>
+<rect x="478" y="222" width="66" height="24" rx="6" fill="#9b3d1d"/>
+<text x="555" y="244" font-size="26" fill="#9b3d1d" text-anchor="start" font-weight="700">2</text>
+<text x="701" y="206" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">Missed</text>
+<rect x="701" y="222" width="33" height="24" rx="6" fill="#654785"/>
+<text x="745" y="244" font-size="26" fill="#654785" text-anchor="start" font-weight="700">1</text>
+<text x="47" y="369" font-size="31" fill="#172e3c" text-anchor="start" font-weight="700">Holdout</text>
+<text x="48" y="406" font-size="23" fill="#405a68" text-anchor="start" font-weight="400">10 cost units</text>
+<text x="255" y="346" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">Correct</text>
+<rect x="255" y="362" width="66" height="24" rx="6" fill="#096681"/>
+<text x="332" y="384" font-size="26" fill="#096681" text-anchor="start" font-weight="700">2</text>
+<text x="478" y="346" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">False alarms</text>
+<rect x="478" y="362" width="66" height="24" rx="6" fill="#9b3d1d"/>
+<text x="555" y="384" font-size="26" fill="#9b3d1d" text-anchor="start" font-weight="700">2</text>
+<text x="701" y="346" font-size="23" fill="#172e3c" text-anchor="start" font-weight="400">Missed</text>
+<rect x="701" y="362" width="66" height="24" rx="6" fill="#654785"/>
+<text x="778" y="384" font-size="26" fill="#654785" text-anchor="start" font-weight="700">2</text>
+<text x="44" y="518" font-size="27" fill="#405a68" text-anchor="start" font-weight="400">One miss costs 4; one false alarm costs 1.</text>
+</g></svg>

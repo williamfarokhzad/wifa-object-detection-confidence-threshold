@@ -1,0 +1,16 @@
+{
+  "tune": [
+    {"frame":"t1","run":"A","targets":["clip"],"detections":[{"score_milli":940,"match":"clip"},{"score_milli":850,"match":null}]},
+    {"frame":"t2","run":"A","targets":["clip"],"detections":[{"score_milli":820,"match":"clip"}]},
+    {"frame":"t3","run":"B","targets":["clip"],"detections":[{"score_milli":700,"match":"clip"},{"score_milli":700,"match":null}]},
+    {"frame":"t4","run":"B","targets":["clip"],"detections":[{"score_milli":620,"match":"clip"},{"score_milli":350,"match":null}]},
+    {"frame":"t5","run":"B","targets":["clip"],"detections":[]}
+  ],
+  "holdout": [
+    {"frame":"h1","run":"C","targets":["clip"],"detections":[{"score_milli":910,"match":"clip"},{"score_milli":880,"match":null}]},
+    {"frame":"h2","run":"C","targets":["clip"],"detections":[{"score_milli":680,"match":"clip"},{"score_milli":630,"match":null}]},
+    {"frame":"h3","run":"D","targets":["clip"],"detections":[{"score_milli":580,"match":"clip"}]},
+    {"frame":"h4","run":"D","targets":["clip"],"detections":[]},
+    {"frame":"h5","run":"D","targets":[],"detections":[{"score_milli":490,"match":null}]}
+  ]
+}
